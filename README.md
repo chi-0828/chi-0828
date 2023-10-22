@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi-0828&hide=contribs,prs)
+![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi-0828&show_icons=true&theme=radical)
